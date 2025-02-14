@@ -10,7 +10,7 @@ p, h1, span {
 /* Title Styling */
 h1 {
     font-size: 3rem;
-    font-weight: 700;
+    font-weight: 701;
     text-transform: uppercase;
     background: linear-gradient(to right, #ff416c, #ff4b2b);
     -webkit-background-clip: text;
