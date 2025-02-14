@@ -10,7 +10,6 @@ function startGame() {
     document.getElementById("score").innerText = score;
     document.getElementById("timer").innerText = timeLeft;
     document.getElementById("game-container").innerHTML = "";
-    
     gameInterval = setInterval(spawnTarget, 800);
     countdown = setInterval(updateTimer, 1000);
 }
